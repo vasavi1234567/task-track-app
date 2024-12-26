@@ -1,0 +1,10 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(108, 213, 237);
+    height: 100vh;
+}
+.heading {
+    color: black;
+}
